@@ -1,8 +1,9 @@
-Google
-facebook
-github
-amazon
-zomato
-swiggy
-S&S
-PPP
+Google - Web
+facebook - Web & mobile
+github- web
+amazon- web  & Mobile
+zomato - mobile
+swiggy- mobile
+PPP - web
+Gingerbird
+Facetime
