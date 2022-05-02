@@ -1,8 +1,9 @@
 FHIR
 ICD 10
-EMR
-EHR
+EMR/EHR
+NCD
 HMIS
 Road safety
 Card Access
-Analytics
+Shoppers
+Freebies
