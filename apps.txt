@@ -3,3 +3,4 @@ facebook
 github
 amazon
 zomato
+swiggy
